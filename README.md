@@ -1,4 +1,4 @@
-<h1 align="center">✨ Wallpapers ✨</h1>
+<h1 align="center">wallpapers i use on my hyprland rice</h1>
 
 | ![astronaut](./astronaut.png) | ![beach-path](./beach-path.jpg) | ![cabin-5](./cabin-5.png) |
 |-------------------|-------------------|-------------------|
